@@ -1,13 +1,13 @@
 <h1 align="center">
-JulianDeBits
+JulianD3v
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hola+a+todos+%F0%9F%91%8B;Soy+JulianDeBits%2C+Bienvenid@s!!.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hola+a+todos+%F0%9F%91%8B;Soy+JulianD3v%2C+Bienvenid@s!!.)
 
 # 💫 Sobre Mi:
-Soy un entusiasta estudiante de desarrollo de software con conocimientos orientados a la multiplataforma (Web, Escritorio y Movil).
+Soy un entusiasta desarrollador de software con conocimientos orientados a la web.
 
- - 🌱 Actualmente estoy aprendiendo Kotlin, Javascript, Bootstrap y React.
- - 👯 Estudiante de 5to Semestre en Tecnologia en Desarrollo de Software.
+ - 🌱 Actualmente estoy aprendiendo Astro y Tailwindcss.
+ - 👯 Estudiante de Ultimo Semestre en Tecnologia en Desarrollo de Software.
 - 📫 Conocimientos Tecnicos:
 
 # 🚀 Portafolio:
